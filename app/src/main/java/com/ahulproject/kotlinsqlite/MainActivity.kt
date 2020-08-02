@@ -80,6 +80,7 @@ class MainActivity : AppCompatActivity() {
                         nameTxt.text.toString(),
                         npmNmr.text.toString(),
                         jurusanTxt.text.toString())
+                clearEditTexts()
                 if (isUpdate == true)
                     showToast("Data Sudah diperbarui")
                 else
