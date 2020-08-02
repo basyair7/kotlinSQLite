@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Data Mahasiswa (Kotlin Sqlite)</string>
+    <string name="lable_app">APLIKASI DATA MAHASISWA</string>
+    <string name="id_str">ID</string>
+    <string name="id_lbl">ID:</string>
+    <string name="name_lbl">Name:</string>
+    <string name="name_str">Name</string>
+    <string name="npm_lbl">NPM:</string>
+    <string name="npm_str">12345</string>
+    <string name="jurusan_str">jurusan (prodi)</string>
+    <string name="jurusan_lbl">Jurusan/Prodi:</string>
+    <string name="masuk_btn">DAFTAR</string>
+    <string name="update_btn">UPDATE</string>
+    <string name="hapus_btn">HAPUS</string>
+    <string name="tamplikan_btn">Tamplikan</string>
+</resources>
